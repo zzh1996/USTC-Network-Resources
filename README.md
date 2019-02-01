@@ -140,7 +140,7 @@ ACM 的训练系统，上面有很多算法题可以做，可以提交自己的�
 录取的新生可以由此注册科大邮箱、预定军训服装尺寸、查询寝室房间等。可以查询相同城市的人以便同行。
 
 * [vi.ustc.edu.cn](http://vi.ustc.edu.cn)（科大文化）：  
-**校名、校徽、校歌、校园风光**等资源的官方下载，还有**[科大 ppt 模板](http://vi.ustc.edu.cn/visual/201104/t20110428_104212.html)**。
+**校名、校徽、校歌、校园风光**等资源的官方下载，还有[**科大 ppt 模板**](http://vi.ustc.edu.cn/visual/201104/t20110428_104212.html)。
 
 * [grid.ustc.edu.cn](http://grid.ustc.edu.cn)：  
 一个 FTP 搜索引擎。
