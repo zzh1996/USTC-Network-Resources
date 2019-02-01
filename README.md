@@ -66,20 +66,11 @@
 
 * [jw.ustc.edu.cn](http://jw.ustc.edu.cn)（新版教务系统）
 
-* [huodongweb.com](http://huodongweb.com/)（大学活动平台）：  
-几乎所有活动的海报都会发到这里，也可以查看各个社团的信息等等。
-
-* [ms.ustc.edu.cn](http://ms.ustc.edu.cn)（正版软件）：  
-需要先在 i.ustc.edu.cn 登录。提供了**正版 Windows、正版 Office、正版 Matlab、正版福昕 PDF 套件、正版 NOD32 杀毒软件**等。
+* [ms.ustc.edu.cn](http://ms.ustc.edu.cn)（正版软件，仅校园网可访问）：  
+需要先在 i.ustc.edu.cn 登录。提供了**正版 Windows、正版 Office（包括 Windows 和 Mac 版本）、正版 Matlab、正版福昕 PDF 套件、正版 NOD32 杀毒软件**等。
 
 * [rec.ustc.edu.cn](http://rec.ustc.edu.cn)（睿客网）：  
 每人拥有 **100GB 的云盘空间**，可以分享文件（可以设置为仅校内可见）。上面有**大家上传的很多资源**，也有很多课程。
-
-* [cloud.ustc.edu.cn](http://cloud.ustc.edu.cn)（科大云）：  
-学生都可以创建**免费的云主机**，可以选择 Windows 或 Linux 系统，两核心 CPU、40G 硬盘、4GB 内存，可以上网，可以拥有一个校内的 IP。在任何地方都可以使用网页版的 VNC 远程桌面操作。如果搭建服务器，仅校内可以访问。需要每个月延时一次，否则会被关机。
-
-* [blog.ustc.edu.cn](http://blog.ustc.edu.cn)（科大博客）：  
-可以免费申请的**博客空间**，基于 WordPress。域名是 xxx.blog.ustc.edu.cn 的形式，也可以使用自己注册的域名。
 
 * [home.ustc.edu.cn](http://home.ustc.edu.cn)（个人主页）：  
 每人拥有 300M 的免费 ftp 空间，可以用来搭建静态**个人主页**。由于是科大域名，显得比较正规。使用方法在[这里](http://home.ustc.edu.cn/)。
@@ -93,7 +84,7 @@
 * [mirrors.ustc.edu.cn](http://mirrors.ustc.edu.cn)（开源软件镜像）：  
 提供很多**开源软件的镜像服务**，在校内使用速度很快（校外也很快）。如果你使用 Linux 系统，一定要把软件源设置为科大源，可以大幅加快安装软件的速度。Linux 系统的安装镜像也可以在这里下载。还有安卓源代码等等。
 
-* [git.ustclug.org](http://git.ustclug.org)（GitLab）：  
+* [git.lug.ustc.edu.cn](http://git.lug.ustc.edu.cn)（GitLab）：  
 像 GitHub 一样的**代码托管**和项目管理服务，支持私有项目。服务器在校内，访问速度比较快。
 
 * [icourse.club](https://icourse.club)（评课社区）：  
@@ -108,8 +99,10 @@
 * [www.bb.ustc.edu.cn](http://www.bb.ustc.edu.cn)（网络教学平台）：  
 其中的bb代表blackboard，是一个网络的教学系统，很多老师喜欢在上面发通知、上传课件、留作业，也可以看其他课程的资源。
 
-* [acm.ustc.edu.cn](http://acm.ustc.edu.cn)（Online Judge）：  
-ACM 的训练系统，上面有很多算法题可以做，可以提交自己的代码进行评测。ACM 的迎新赛也在上面进行。
+* [oj.ustc.edu.cn](http://oj.ustc.edu.cn)（Online Judge）：  
+ACM 比赛的训练系统，上面有很多算法题可以做，可以提交自己的代码进行评测。ACM 的迎新赛也在上面进行。
+
+* [acm.ustc.edu.cn](http://acm.ustc.edu.cn)（旧版 ACM 训练系统） 
 
 * [jxzy.ustc.edu.cn](http://jxzy.ustc.edu.cn)（大物实验）：  
 大物实验成绩查询、课表查询，可以下载讲义、视频、软件和其他资源。
@@ -120,16 +113,10 @@ ACM 的训练系统，上面有很多算法题可以做，可以提交自己的�
 * [sf.ustc.edu.cn](http://sf.ustc.edu.cn)（网上缴费系统）：  
 可以用银行卡交学费和其他费用。
 
-* [bookface.ustc.edu.cn](http://bookface.ustc.edu.cn)（南七书谱）：  
-校内**二手书交易市场**。
-
-* [icard.ustc.edu.cn](http://icard.ustc.edu.cn)（一卡通消费统计）：  
-**一卡通消费分析**，统计自己的消费趋势、在各个食堂的消费比例等等。
-
 * [ecard.ustc.edu.cn](http://ecard.ustc.edu.cn)（校园一卡通信息管理系统）：  
 可以查询自己**一卡通的详细消费记录**，也可以挂失解挂。
 
-* [infopublish.ustc.edu.cn](http://infopublish.ustc.edu.cn)（信息发布）：  
+* [infopublish.ustc.edu.cn](http://infopublish.ustc.edu.cn)（信息发布，仅校园网可访问）：  
 和教室、寝室门口电视上显示的内容相同，滚动播放**近期活动的海报**。
 
 * [pxe.ustc.edu.cn](http://pxe.ustc.edu.cn)（网络启动服务）：  
@@ -144,9 +131,6 @@ ACM 的训练系统，上面有很多算法题可以做，可以提交自己的�
 * [vi.ustc.edu.cn](http://vi.ustc.edu.cn)（科大文化）：  
 **校名、校徽、校歌、校园风光**等资源的官方下载，还有[**科大 ppt 模板**](http://vi.ustc.edu.cn/visual/201104/t20110428_104212.html)。
 
-* [grid.ustc.edu.cn](http://grid.ustc.edu.cn)：  
-一个 FTP 搜索引擎。
-
 * [ty.ustc.edu.cn](http://ty.ustc.edu.cn)：  
 查询体测成绩。
 
@@ -160,10 +144,38 @@ ACM 的训练系统，上面有很多算法题可以做，可以提交自己的�
 
 完整列表及下载地址：[http://i.ustc.edu.cn/m/](http://i.ustc.edu.cn/m/)（安卓、iOS、Windows Phone 都有）。
 
-## 四、其他
+## 四、教育优惠
 
-**支付宝可以给一卡通充值**，很方便，具体教程参考[这里](http://ustcnet.ustc.edu.cn/xyykt/fwzn/201501/P020150127370318796849.pdf)和[这里](http://bbs.ustc.edu.cn/cgi/bbscon?bn=SmartCard&fn=M541ED733&num=7519)。
+这里只列出我们学校购买/订阅的服务，“GitHub 学生优惠”等所有高校学生都可以享受的教育优惠在此不列出。
 
-中国科大图书馆的微信公众号绑定个人身份后可以方便的查询当前借阅、续借图书等等。
+* 用科大邮箱注册微软的 OneDrive 可以拥有 5TB 空间。
 
-支付宝也可以给网络通付费，网络通欠费时提醒邮件里会有详细说明。
+* 科大邮箱有在线版 MATLAB 的授权。
+
+## 五、其他
+
+* **支付宝可以给一卡通充值**，很方便，具体教程参考[这里](http://ustcnet.ustc.edu.cn/xyykt/fwzn/201501/P020150127370318796849.pdf)和[这里](http://bbs.ustc.edu.cn/cgi/bbscon?bn=SmartCard&fn=M541ED733&num=7519)。
+
+* 中国科大图书馆的微信公众号绑定个人身份后可以方便的查询当前借阅、续借图书等等。
+
+* 支付宝也可以给网络通付费，网络通欠费时提醒邮件里会有详细说明。
+
+## 已经关闭的服务和网站
+
+* [huodongweb.com](http://huodongweb.com/)（大学活动平台）：  
+几乎所有活动的海报都会发到这里，也可以查看各个社团的信息等等。
+
+* [cloud.ustc.edu.cn](http://cloud.ustc.edu.cn)（科大云）：  
+学生都可以创建**免费的云主机**，可以选择 Windows 或 Linux 系统，两核心 CPU、40G 硬盘、4GB 内存，可以上网，可以拥有一个校内的 IP。在任何地方都可以使用网页版的 VNC 远程桌面操作。如果搭建服务器，仅校内可以访问。需要每个月延时一次，否则会被关机。
+
+* [blog.ustc.edu.cn](http://blog.ustc.edu.cn)（科大博客）：  
+可以免费申请的**博客空间**，基于 WordPress。域名是 xxx.blog.ustc.edu.cn 的形式，也可以使用自己注册的域名。
+
+* [bookface.ustc.edu.cn](http://bookface.ustc.edu.cn)（南七书谱）：  
+校内**二手书交易市场**。
+
+* [icard.ustc.edu.cn](http://icard.ustc.edu.cn)（一卡通消费统计）：  
+**一卡通消费分析**，统计自己的消费趋势、在各个食堂的消费比例等等。
+
+* [grid.ustc.edu.cn](http://grid.ustc.edu.cn)：  
+一个 FTP 搜索引擎。
