@@ -52,7 +52,7 @@
 每名学生可以申请一个以 @mail.ustc.edu.cn 结尾的邮箱，一般用于官方用途（比如提交一些申请、交作业、联系老师和助教、接收学校通知等）。申请时邮箱名建议正式一些，推荐姓名拼音。不要使用奇怪的名字，在校期间可以在[这里](https://zczx.ustc.edu.cn/accounts)另外申请一个邮箱名，两个邮箱名均可使用。小技巧：  
 有些浏览器保存密码时不能保存下拉列表的状态，每次登录都要选“@mail.ustc.edu.cn”，这时可以直接在用户名处填写“xxx@mail.ustc.edu.cn”，即使下拉列表选择了“@ustc.edu.cn”也可以正常登录。
 
-* [zczx.ustc.edu.cn](https://zczx.ustc.edu.cn/)（网络通服务中心）
+* [zczx.ustc.edu.cn](https://zczx.ustc.edu.cn/)（网络通服务中心）：  
 可以缴费和管理网络通账号
 
 * [lib.ustc.edu.cn](http://lib.ustc.edu.cn)（图书馆）：  
@@ -122,10 +122,10 @@ ACM 比赛的训练系统，上面有很多算法题可以做，可以提交自�
 * [jxzy.ustc.edu.cn](https://jxzy.ustc.edu.cn)（大物实验）：  
 旧大物实验中心网站，选课系统**已弃用**，可以查看公告，下载讲义、视频、软件和其他资源。
 
-* [etis.ustc.edu.cn](http://etis.ustc.edu.cn/)（大物实验）
+* [etis.ustc.edu.cn](http://etis.ustc.edu.cn/)（大物实验）：  
 新大物实验预约网站，可以查看课表和成绩（校内访问）。**已弃用**
 
-* [pems.ustc.edu.cn](http://pems.ustc.edu.cn/)（大物实验）：
+* [pems.ustc.edu.cn](http://pems.ustc.edu.cn/)（大物实验）：  
 新新大物实验预约网站，另外可以查看成绩，下载讲义，进行随堂测试。
 
 * [moocs.ustc.edu.cn](http://moocs.ustc.edu.cn)（慕课平台）：  
@@ -151,7 +151,7 @@ ACM 比赛的训练系统，上面有很多算法题可以做，可以提交自�
 （校内访问）
 
 * [ty.ustc.edu.cn](http://ty.ustc.edu.cn)：  
-查询体测成绩和体育俱乐部课程选课**已弃用**
+查询体测成绩和体育俱乐部课程选课**已弃用**  
 **已经迁移至微信小程序 USTC体育俱乐部 **
 
 * [ot.ustc.edu.cn](https://ot.ustc.edu.cn/)（蜗壳学社）：  
@@ -190,11 +190,11 @@ ACM 比赛的训练系统，上面有很多算法题可以做，可以提交自�
 
 * 科大邮箱有在线版 MATLAB 的授权。
 
-* 科大购买的mathematica服务使用校内服务器分发，目前只支持50人同时在线。
+* 科大购买的 Mathematica 服务使用校内服务器分发，目前只支持 50 人同时在线。
 
-* Office 365 教育版 A1 计划，详见 https://ustcnet.ustc.edu.cn/2018/1219/c11104a366368/page.htm 和 http://staff.ustc.edu.cn/~wf0229/office365/
-**A1计划不包含Office桌面版，要获取科大购买的Office服务请在正版化网站下载LTSC批量授权版本**
-**加入A1计划后可以享有5TB OneDrive版本，需要指出微软已禁止常规方式注册edu邮箱的微软账户，加入教育计划请去[这里](https://office.com/)，更多信息请见以上文章**
+* Office 365 教育版 A1 计划，详见 https://ustcnet.ustc.edu.cn/2018/1219/c11104a366368/page.htm 和 http://staff.ustc.edu.cn/~wf0229/office365/  
+**A1 计划不包含 Office 桌面版，要获取科大购买的 Office 服务请在正版化网站下载 LTSC 批量授权版本**  
+**加入 A1 计划后可以享有 5 TB OneDrive 版本，需要指出微软已禁止常规方式注册 edu 邮箱的微软账户，加入教育计划请去[这里](https://office.com/)，更多信息请见以上文章**
 
 ## 五、其他
 
